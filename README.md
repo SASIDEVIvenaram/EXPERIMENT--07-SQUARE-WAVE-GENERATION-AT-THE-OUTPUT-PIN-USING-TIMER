@@ -116,7 +116,7 @@ REGISTER NO.: 212222230136
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
-# FOR PULSE AT 500
+### FOR PULSE AT 500
 
 Total Time period =4.1ms
 TON = 2ms
@@ -126,7 +126,7 @@ FREQUENCY = 1/(TOTAL TIME)
 = 1/(410^-3)
 = 250Hz
 
-## FOR PULSE AT 700
+### FOR PULSE AT 700
 
 Total Time period = 3.11ms
 TON =  2.17ms
@@ -136,7 +136,7 @@ FREQUENCY = 1/(TOTAL TIME)
 = 1/(3.110^-3)
 = 322.58Hz
 
-## FOR PULSE AT 900
+### FOR PULSE AT 900
 
 Total Time period = 3.21ms
 TON = 2.88ms
